@@ -1,0 +1,3 @@
+aaa | aaa@example | 123456789
+bbb | bbb@example | 987654321
+ccc | ccc@example | 147852369
